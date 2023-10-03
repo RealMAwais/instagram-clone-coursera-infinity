@@ -36,6 +36,6 @@ The latest update includes some nice new features, such as the gradient border a
 
 ## ℹ Infos
 
-Made by Leonardo Costa 🙂
+Made by Muhammad Awais
 
 Distributed under the MIT License. See ``LICENSE`` for more information.
